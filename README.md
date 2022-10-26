@@ -1,4 +1,4 @@
-<h2 align="center">Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ana Vitória</h2>
+<h2 align="center">Coucou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ana Vitória</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/anvitrola/">LinkedIN</a> ✲
     <a href="https://leetcode.com/anvitrola/">LeetCode</a> ✲
