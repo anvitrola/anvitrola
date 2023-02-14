@@ -12,9 +12,9 @@
 **Talking about Personal Stuffs:**
 
 - 🇧🇷  I'm a brazilian computer science student and full-stack developer 
-- 👨🏽‍💻  I’m currently working on <a href="https://www.stone.co/">Stone Payments</a>.
+- 👨🏽‍💻  I’m currently working on <a href="https://www.safeops.io">/SafeOps</a>.
 - 🌱  I’m currently learning Python and studying algorithms. 
-- 💬  Ask me about Javascript Engine, React.js and Testing :wink:. 
+- 💬  Ask me about the Javascript Environment, Unit Testing and Data Structure :wink:. 
 - 📫  How to reach me: vitoriavianathiss@gmail.com.
 
 
