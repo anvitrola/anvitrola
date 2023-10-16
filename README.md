@@ -1,20 +1,15 @@
 <h2 align="center">Coucou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ana Vitória</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/anvitrola/">LinkedIN</a> ✲
-    <a href="https://leetcode.com/anvitrola/">LeetCode</a> ✲
-  <a href="https://www.instagram.com/anvitrola/">Instagram</a>
+    <a href="https://leetcode.com/anvitrola/">LeetCode</a>
 
 </p>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-
-**Talking about Personal Stuffs:**
-
-- 🇧🇷  I'm a brazilian computer science student and full-stack developer 
-- 👨🏽‍💻  I’m currently working on <a href="https://www.safeops.io">/SafeOps</a>.
-- 🌱  I’m currently learning Python and studying algorithms. 
-- 💬  Ask me about the Javascript Environment, Unit Testing and Data Structure :wink:. 
+- 🇧🇷  Brazilian computer science student and full-stack developer 
+- 👨🏽‍💻  I’m currently working on <a href="https://www.safeops.io">SafeOps</a>.
+- 🌱  I’m currently learning Cyber security and studying famous search algorithms 🤓. 
+- 💬  Ask me about Javascript Environment, Unit Testing and Data Structure. 
 - 📫  How to reach me: vitoriavianathiss@gmail.com.
 
 
@@ -25,7 +20,6 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anvitrola&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvitrola&layout=compact&theme=dark" alt="top-langs" />
