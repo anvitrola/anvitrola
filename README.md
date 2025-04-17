@@ -7,7 +7,7 @@
 
 
 - 🇧🇷  Brazilian computer science student and software developer focused on front-end development
-- 👨🏽‍💻  I’m currently working on <a href="https://www.safeops.io">SafeOps</a>.
+- 👨🏽‍💻  I’m currently working on <a href="https://www.capitol.ai">Capitol AI</a>.
 - 🌱  I’m constantly studying algorithms and trying to enhance performance 🤓. 
 - 💬  Ask me about Javascript Environment, Data Structures, Front-end Development etc.
 - 📫  How to reach me: vitoriavianathiss@gmail.com.
